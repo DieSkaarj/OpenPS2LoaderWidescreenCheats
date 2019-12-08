@@ -15,6 +15,7 @@
     SLES_501.09; 	7 Blades.						97AE372A.
     SLES_531.54; 	Bard's Tale, The.					26420115.
     SLES_516.20; 	Black & Bruised.					F743CD58.
+    SLES_507.71; 	Blood Omen 2: Legacy of Kain. 				06DCCAF4.
     SLES_502.03; 	Bloody Roar 3.						880AA922.
     SLES_518.77; 	Bloody Roar 4.						C5DBDB45.
     SLES_525.34; 	Crimson Tears.						AA5725B5.
@@ -30,6 +31,7 @@
     SLES_534.08; 	Fighting Angels. 					B0621C55.
     SLES_503.10; 	Freak Out. 						FE191134.
     SLES_528.24; 	Furry Tales. 						AA91DEA8.
+    SLES_503.14; 	Giants: Citizen Kabuto. 				C0A963DB.
     SLES_544.90; 	God Hand. 						DE9722A5.
     SLES_528.77; 	Haunting Ground. 					2CD5794C.
     SLES_505.44; 	Jet Ion GP. 						EB20EAA6.
@@ -37,9 +39,8 @@
     SLES_534.11; 	Kuon. 							09B4F5F9.
     SLES_529.78; 	La Pucelle: Tactics. 					474EC389.
     SLES_512.27; 	Lara Croft Tomb Raider: The Angel Of Darkness. 		54AD76D7.
-    SLES_507.71; 	Legacy of Kain - Blood Omen 2. 				06DCCAF4.
     SLES_501.96; 	Legacy of Kain: Soul Reaver 2. 				6D8B4CD1.
-    SLES_521.50; 	Legacy of Kain - Defiance. 				BCAD1E8A.
+    SLES_521.50; 	Legacy of Kain: Defiance. 				BCAD1E8A.
     SLES_502.30; 	Lotus Challenge. 					D48A92E1.
     SLES_516.53; 	Mace Griffin - Bounty Hunter. 				CBC401C5.
     SLES_510.58; 	Maken Shao - Demon Sword. 				54854C71.
@@ -66,7 +67,7 @@
     SCES_532.02; 	Tekken 5. 						1F88BECD.
     SCES_500.01; 	Tekken Tag Tournament. 					D07E8F35.
     SLES_530.14; 	Tenchu: Fatal Shadows. 					E7CCCB1E.
-    SLES_506.79; 	Tenchu - Wrath of Heaven. 				C8DADF58.
+    SLES_506.79; 	Tenchu: Wrath of Heaven. 				C8DADF58.
     SLES_500.78; 	TimeSplitters. 						288AA369.
     SLES_508.77; 	TimeSplitters 2. 					5CC9BF81.
     SLES_538.24; 	Trapt. 							2A79E058.
@@ -74,6 +75,7 @@
     SLES_528.68; 	Viewtiful Joe 2. 					5F2205B1.
     SLES_502.10; 	XGIII: Extreme G Racing. 				A991D167.
     SLES_516.36; 	XGRA - Extreme G Racing Association. 			9D395452.
+    
 </details>
 
 <h4>Notes:</h4>
