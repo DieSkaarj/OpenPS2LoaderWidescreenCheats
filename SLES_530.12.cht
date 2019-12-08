@@ -4,7 +4,7 @@
 
 Master Code
 
-90112E10 0C044B2C	// sceSifSendCmd (recommended)
+90112E10 0C044B2C		// sceSifSendCmd (recommended)
 //~90136C2C 0C04E19C	// main (unreliable)
 
 Widescreen Code

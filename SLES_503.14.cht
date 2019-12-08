@@ -1,0 +1,15 @@
+/************************************************************/
+/* SLES_503.14; Giants: Citizen Kabuto; 18F2A070. C0A963DB. */
+/************************************************************/
+
+Master Code
+
+902499F8 0C092626	// sceSifSendCmd (recommended)
+//~90226FDC 0C08FDAF	// scePadRead
+//~9019C5E8 0C08DD78	// main (unreliable)
+
+
+Widescreen Code
+
+203bc7c0 3fe38e39
+203bc978 3fe38e39

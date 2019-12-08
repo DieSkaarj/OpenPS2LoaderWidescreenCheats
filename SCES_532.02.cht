@@ -4,9 +4,9 @@
 
 Master Code
 
-90114458 0C0450BE // sceSifSendCmd (recommended)
-//~9010C2C0 0C04A905 // scePadRead
-//~90D6FD84 0C0451AA // main (unreliable)
+90114458 0C0450BE	 	// sceSifSendCmd (recommended)
+//~9010C2C0 0C04A905 	// scePadRead
+//~90D6FD84 0C0451AA 	// main (unreliable)
 
 /*
  * Widescreen hack by nemesis2000. Ported to PAL ElHecht.

@@ -4,8 +4,8 @@
 
 Master Code
 
-9010C048 0C042FBA // sceSifSendCmd (recommended)
-//~90103258 0C04BDC0 // main (unreliable)
+9010C048 0C042FBA 		// sceSifSendCmd (recommended)
+//~90103258 0C04BDC0 	// main (unreliable)
 
 /* 
  * Widescreen Hack by ElHecht.

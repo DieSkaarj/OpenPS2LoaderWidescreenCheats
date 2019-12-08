@@ -4,7 +4,7 @@
 
 Master Code
 
-904032C8 0C100C58 // sceSifSendCmd (recommended)
+904032C8 0C100C58 		// sceSifSendCmd (recommended)
 
 /*
  * Widescreen hack (16:9) by ElHecht.

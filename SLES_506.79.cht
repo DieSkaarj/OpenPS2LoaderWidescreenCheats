@@ -1,10 +1,10 @@
-/****************************************************/
-/* SLES_506.79; Tenchu - Wrath of Heaven. C8DADF58. */
-/****************************************************/
+/***************************************************/
+/* SLES_506.79; Tenchu: Wrath of Heaven. C8DADF58. */
+/***************************************************/
 
 Master Code
 
-9010F578 0C043D06	// sceSifSendCmd (recommended)
+9010F578 0C043D06		// sceSifSendCmd (recommended)
 //~90116AEC 0C0486C8	// scePadRead
 //~9024515C 0C091B14	// main (unreliable)
 

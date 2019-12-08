@@ -4,9 +4,9 @@
 
 Master Code
 
-9010B298 0C042C4E // sceSifSendCmd (recommended)
-//~901040E4 0C045A80 // scePadRead
-//~901034A0 0C04AF60 // main (unreliable)
+9010B298 0C042C4E 		// sceSifSendCmd (recommended)
+//~901040E4 0C045A80 	// scePadRead
+//~901034A0 0C04AF60 	// main (unreliable)
 
 /*
  * Widescreen Hack by ElHecht.

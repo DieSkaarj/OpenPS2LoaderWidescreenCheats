@@ -1,10 +1,10 @@
-/*****************************************************/
-/* SLES_521.50; Legacy of Kain - Defiance. BCAD1E8A. */
-/*****************************************************/
+/****************************************************/
+/* SLES_521.50; Legacy of Kain: Defiance. BCAD1E8A. */
+/****************************************************/
 
 Master Code
 
-90257470 0C095CC4	// sceSifSendCmd (recommended)
+90257470 0C095CC4		// sceSifSendCmd (recommended)
 //~9025F570 0C09111D	// scePad2Read
 //~901C2EC4 0C0938AA	// main (unreliable)
 

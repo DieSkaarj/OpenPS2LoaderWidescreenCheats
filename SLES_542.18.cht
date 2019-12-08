@@ -4,8 +4,8 @@
 
 Master Code
 
-902626D8 0C09895E // sceSifSendCmd (recommended)
-//~9026D3A0 0C09ECA7 // scePad2Read
+902626D8 0C09895E 		// sceSifSendCmd (recommended)
+//~9026D3A0 0C09ECA7 	// scePad2Read
 
 Widescreen Code
 

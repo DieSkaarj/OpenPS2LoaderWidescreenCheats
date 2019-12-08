@@ -3,7 +3,7 @@
 /*******************************************/
 
 Master Code
-90446138 0C1117F6	// sceSifSendCmd (recommended)
+90446138 0C1117F6		// sceSifSendCmd (recommended)
 //~9044DBEC 0C12407B	// scePadRead
 //~90201234 0C1233F8	// main (unreliable)
 

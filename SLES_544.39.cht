@@ -4,7 +4,7 @@
 
 Master Code
 
-904022B0 0C100854	// sceSifSendCmd (recommended)
+904022B0 0C100854		// sceSifSendCmd (recommended)
 //~903EED00 0C0FD671	// scePadRead
 
 /*

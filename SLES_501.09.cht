@@ -4,7 +4,7 @@
 
 Master Code
 
-903E1FF8 0C0F87A6	// sceSifSendCmd (recommended)
+903E1FF8 0C0F87A6		// sceSifSendCmd (recommended)
 //~903C131C 0C0F5612	// scePadRead
 //~903B5758 0C0F4CAC	// main (unreliable)
 

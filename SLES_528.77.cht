@@ -4,7 +4,7 @@
 
 Master Code
 
-90241410 0C0904AC	// sceSifSendCmd (recommended)
+90241410 0C0904AC		// sceSifSendCmd (recommended)
 //~901D4F50 0C0456DA	// scePad2Read
 //~901DEA98 0C0453EA	// main (unreliable)
 

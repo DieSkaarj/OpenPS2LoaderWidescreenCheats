@@ -4,7 +4,7 @@
 
 Master Code
 
-9020CDF8 0C083326	// sceSifSendCmd (recommended)
+9020CDF8 0C083326		// sceSifSendCmd (recommended)
 //~9021F6D0 0C087D90 	// main (unreliable)
 
 /*

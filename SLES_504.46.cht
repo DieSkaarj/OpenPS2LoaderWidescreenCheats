@@ -4,9 +4,9 @@
 
 Master Code
 
-9023F178 0C08FC06 // sceSifSendCmd (recommended)
-//~901F6D74 0C07DE78 // scePadRead
-//~901D3390 0C08ED52 // main
+9023F178 0C08FC06 		// sceSifSendCmd (recommended)
+//~901F6D74 0C07DE78 	// scePadRead
+//~901D3390 0C08ED52 	// main
 
 /*
  * Widescreen hack by Arapapa.
