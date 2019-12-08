@@ -1,0 +1,22 @@
+/****************************************************/
+/* SLES_521.79; Kaan - Barbarian's Blade. 973793E8. */
+/****************************************************/
+
+Master Code
+
+90111280 0C044448	// sceSifSendCmd (recommended)
+//~9011D644 0C048B32	// scePadRead
+//~90129A08 0C040054	// main (unreliable)
+
+/*
+ * Widescreen hack by Arapapa.
+ */
+
+Widescreen Code
+
+// Widescreen hack 16:9
+// Zoom
+201849d4 3c023f40
+
+// Y-Fov
+20177a1c 3c024010

@@ -1,0 +1,22 @@
+/********************************************/
+/* SCES_530.54; Death by Degrees. 59683BB0. */
+/********************************************/
+
+Master Code
+
+9010E270 0C043844	// sceSifSendCmd (recommended)
+//~90453EA8 0C04008C	// main (unreliable)
+
+/*
+ * Widescreen hack by ElHecht.
+ */
+
+Widescreen Code
+
+// Gameplay
+20188170 3c023fe3
+20188178 34438e38
+
+// Cut-Scenes
+20185f8c 3c023fe3
+20185f90 34438e38

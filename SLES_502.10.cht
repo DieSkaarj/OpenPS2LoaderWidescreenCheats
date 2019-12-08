@@ -1,0 +1,18 @@
+/***************************************************/
+/* SLES_502.10; XGIII: Extreme G Racing. A991D167. */
+/***************************************************/
+
+Master Code
+
+901B2FC8 0C06CB9A	// sceSifSendCmd (recommended)
+//~901B749C 0C069AC7	// scePadRead
+//~90129DF8 0C068D64	// main
+
+/* 
+ * Widescreen hack by El_Patas.
+ */
+
+Widescreen Code
+
+2022c288 3fe38e38
+2022c394 42ac0000

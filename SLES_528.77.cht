@@ -1,0 +1,28 @@
+/*******************************************/
+/* SLES_528.77; Haunting Ground. 2CD5794C. */
+/*******************************************/
+
+Master Code
+
+90241410 0C0904AC	// sceSifSendCmd (recommended)
+//~901D4F50 0C0456DA	// scePad2Read
+//~901DEA98 0C0453EA	// main (unreliable)
+
+/*
+ * Widescreen hack by nemesis2000.
+ */
+
+Widescreen Code
+
+2010e31c 3c013f40
+2010e320 44810000
+2010e328 4600c602
+
+// Cutscenes fix
+2028aecc 34a98c00
+2028aeb4 34a67400
+
+// Black borders fix
+2035e628 00000000
+2035e62c 03e00008
+2035e630 00000000

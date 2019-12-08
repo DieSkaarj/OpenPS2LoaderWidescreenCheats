@@ -1,0 +1,19 @@
+/*****************************************/
+/* SLES_526.78; Viewtiful Joe. 2429905B. */
+/*****************************************/
+
+Master Code
+
+902ED790 0C0BB58C	// sceSifSendCmd (recommended)
+//~902CF398 0C0B90F6	// scePad2Read
+
+/*
+ * Widescreen hack by El_Patas.
+ */
+
+
+Widescreen Code
+
+// Gameplay 16:9    
+202b8304 3c01bf27
+202c1458 3c013f20

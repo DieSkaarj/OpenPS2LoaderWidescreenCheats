@@ -1,0 +1,18 @@
+/*****************************************/
+/* SLES_525.34; Crimson Tears. AA5725B5. */
+/*****************************************/
+
+Master Code
+
+902BA938 0C0AE9F6	// sceSifSendCmd (recommended)
+//~902C7AA4 0C0B36FC	// scePadRead
+//~902D77F8 0C040098	// main (unreliable)
+
+/*
+ * Widescreen hack by ElHecht.
+ */
+
+Widescreen Code
+
+201bcb78 3c02bfe3
+201bcb80 34438e39

@@ -1,0 +1,15 @@
+/*******************************************/
+/* SCES_500.03; Dead or Alive 2. 7A51F86E. */
+/*******************************************/
+
+Master Code
+
+903B81E0 0C0EE020	// sceSifSendCmd (recommended)
+
+/*
+ * Widescreen hack by nemesis2000.
+ */
+
+Widescreen Code
+
+2021c21c 3c014534

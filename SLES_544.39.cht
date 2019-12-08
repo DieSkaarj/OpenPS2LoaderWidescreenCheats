@@ -1,0 +1,18 @@
+/*********************************/
+/* SLES_544.39; Okami. 891F223F. */
+/*********************************/
+
+Master Code
+
+904022B0 0C100854	// sceSifSendCmd (recommended)
+//~903EED00 0C0FD671	// scePadRead
+
+/*
+ * Widescreen hack by ElHecht.
+ */
+
+Widescreen Code
+
+// 16:9
+201974d4 3c014455
+20344864 3c014455

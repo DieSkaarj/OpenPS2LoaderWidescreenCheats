@@ -1,0 +1,23 @@
+/************************************/
+/* SCES_508.78; Tekken 4. F48F994A. */
+/************************************/
+
+Master Code
+
+90281F68 0C0A0782 	// sceSifSendcmd (recommended)
+//~9029440C 0C0A8BD5 	// scePadRead
+//~90196A18 0C0A6CA8 	// main (unreliable)
+
+/*
+ * Widescreen hack by Nemesis2000. Ported to PAL by ElHecht.
+ */
+
+Widescreen Code
+
+// 16:9
+202177e0 3c013f40
+202015d4 3c013f40
+202015d8 44810000
+202015e4 46006303
+2018d408 3c0143d6
+201f7028 3c013f40

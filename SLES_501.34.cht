@@ -1,0 +1,15 @@
+/*******************************/
+/* SLES_501.34; Oni. 22E85E68. */
+/*******************************/
+
+Master Code
+
+902C7798 0C0B1D8E	// sceSifSendCmd (recommended)
+
+/*
+ * Widescreen hack by Catarax.
+ */
+
+Widescreen Code
+
+201346f8 3c013f40

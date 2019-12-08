@@ -1,0 +1,26 @@
+/*************************************/
+/* SLES_503.10; Freak Out. FE191134. */
+/*************************************/
+
+Master Code
+
+901078D8 0C041DDE	// sceSifSendCmd (recommended)
+//~9010D3DC 0C0461E8	// scePadRead
+//~9011F5FC 0C047E78	// main (unreliable)
+
+/*
+ * Widescreen hacks by sergx12 (ISO HEX codes) and Aced14 (pnach version - ELF and 16:10 hacks.)
+ */
+
+Widescreen Code
+
+// 16:9 widescreen
+2011fb2c 08047ed8
+2012c200 08047ecd
+2011fb34 12600004
+2011fb38 3c013faa
+2011fb3c 3421aaab
+2011fb40 4481f800
+2011fb44 461f6302
+2011fb48 0804b082
+2011fb4c 46006347

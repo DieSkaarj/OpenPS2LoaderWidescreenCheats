@@ -1,0 +1,22 @@
+/*****************************************************/
+/* SLES_820.31; Shadow Hearts 2: Covenant. 167A484D. */
+/*****************************************************/
+
+Master Code
+
+9020CDF8 0C083326	// sceSifSendCmd (recommended)
+//~9021F6D0 0C087D90 	// main (unreliable)
+
+/*
+ * Widescreen Hack (16:9) by ElHecht.
+ */
+
+Widescreen Code
+
+// 16:9
+20202cac 3c013f40
+20202cb0 44810000
+20202cb8 4600c602
+
+// Render fix
+2022531c 3c033fc0

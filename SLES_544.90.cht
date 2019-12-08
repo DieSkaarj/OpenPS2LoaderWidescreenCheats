@@ -1,0 +1,22 @@
+/************************************/
+/* SLES_544.90; God Hand. DE9722A5. */
+/************************************/
+
+Master Code
+
+903B6EF0 0C0EDB64	// sceSifSendCmd (recommended)
+//~9039C470 0C0EA664	// scePadRead
+
+/*
+ * Widescreen Hack (16:9) by ElHecht and Arapapa.
+ */
+ 
+Widescreen Code
+
+// 16:9
+20138814 3c014455
+20153a38 3c014455
+
+// Font fix
+202afc20 3c013f2c
+202afc24 3421cccd

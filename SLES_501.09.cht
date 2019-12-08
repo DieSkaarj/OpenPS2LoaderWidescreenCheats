@@ -1,0 +1,22 @@
+/************************************/
+/* SLES_501.09; 7 Blades. 97AE372A. */
+/************************************/
+
+Master Code
+
+903E1FF8 0C0F87A6	// sceSifSendCmd (recommended)
+//~903C131C 0C0F5612	// scePadRead
+//~903B5758 0C0F4CAC	// main (unreliable)
+
+/*
+ * Widescreen hack by Arapapa.
+ */
+
+Widescreen Code
+
+// Gameplay 16:9
+20396334 3c013fab
+202ef7ec 3c013fab
+
+// X-FOV (Needs Render fix)
+202ef990 3c013f10
