@@ -8,6 +8,10 @@ Master Code
 9038C624 0C0E7A90	// scePadRead
 //~90101E10 0C0E5846	// main (unreliable)
 
+/*
+ * Widescreen hack by dieSkaarj
+ */
+
 Widescreen Code
 
 203FBE34 3FAAAAAB
