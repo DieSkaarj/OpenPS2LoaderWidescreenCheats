@@ -26,6 +26,7 @@
     SCES_500.06; 	Drakan - The Ancients' Gates. 				04F9D87F.
     SLES_523.22; 	Drakengard.						79585776.
     SLES_537.94; 	Drakengard 2.						EC432B24.
+    SCES_504.99; 	Ecco The Dolphin: Defender Of The Future. 		7FEDF999.
     SLES_500.50; 	Evergrace. 						F40297F7.
     SLES_535.39; 	Fahrenheit. 						8F96D103.
     SLES_534.08; 	Fighting Angels. 					B0621C55.
