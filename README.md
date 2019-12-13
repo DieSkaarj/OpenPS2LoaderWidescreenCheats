@@ -53,6 +53,7 @@
     SLES_519.18; 	Prince of Persia: The Sands of Time. 			4B58A7A8.
     SLES_528.22; 	Prince of Persia: Warrior Within. 			105CC366.
     SLES_537.77; 	Prince of Persia: The Two Thrones. 			6FC40BAA.
+    SLES_538.30; 	Psychonauts. 						6B97BBC8.
     SLES_530.25; 	Red Ninja - End of Honor. 				6419FCC3.
     SCES_505.01; 	Rez.							AE1152EB.
     SLES_542.18; 	Rule of Rose. 						52585249.
