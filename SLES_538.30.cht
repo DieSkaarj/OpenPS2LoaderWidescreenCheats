@@ -1,0 +1,23 @@
+/***************************************/
+/* SLES_538.30; Psychonauts. 6B97BBC8. */
+/***************************************/
+
+Master Code
+
+902E6470 0C0B98C4	// sceSidSendCmd (recommended)
+
+/*
+ * Widescreen hack by pelvicthrustman. Port by dieSkaarj (PAL.) 
+ */
+
+Widescreen Code
+
+//Widescreen
+201ea968 3c013f40
+201ea970 4481f800
+201ea974 461f3183
+201ea98c 46061983
+
+//Render Fix
+201e90c4 340f02ab
+201292d8 240e02ab
