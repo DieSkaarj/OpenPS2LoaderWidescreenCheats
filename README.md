@@ -13,6 +13,7 @@
 	Serial		Title							CRC
  
     SLES_501.09; 	7 Blades.						97AE372A.
+    SLES_509.72; 	Barbarian. 						5CCA0737.
     SLES_531.54; 	Bard's Tale, The.					26420115.
     SLES_516.20; 	Black & Bruised.					F743CD58.
     SLES_507.71; 	Blood Omen 2: Legacy of Kain. 				06DCCAF4.
@@ -50,10 +51,12 @@
     SLES_544.39; 	Okami. 							891F223F.
     SLES_501.34; 	Oni. 							22E85E68.
     SLES_505.92; 	Operative: No One Lives Forever, The. 			18F2A070.
+    SLES_506.80; 	Pirates - The Legend Of Black Kat. 			E677B8F1.
     SLES_519.18; 	Prince of Persia: The Sands of Time. 			4B58A7A8.
     SLES_528.22; 	Prince of Persia: Warrior Within. 			105CC366.
     SLES_537.77; 	Prince of Persia: The Two Thrones. 			6FC40BAA.
     SLES_538.30; 	Psychonauts. 						6B97BBC8.
+    SLES_512.35; 	Raging Blades. 						A8D651D2.
     SLES_530.25; 	Red Ninja - End of Honor. 				6419FCC3.
     SCES_505.01; 	Rez.							AE1152EB.
     SLES_542.18; 	Rule of Rose. 						52585249.
@@ -65,11 +68,13 @@
     SLES_504.46; 	Shadow Man: 2econd Coming. 				48553EAF.
     SCES_533.12; 	Soul Calibur III. 					BC5480A3.
     SLES_551.67; 	Soul Nomad & the World Eaters. 				4A2F5CDA.
+    SLES_528.82; 	Stolen. 						BBAE448F.
     SCES_508.78; 	Tekken 4. 						F48F994A.
     SCES_532.02; 	Tekken 5. 						1F88BECD.
     SCES_500.01; 	Tekken Tag Tournament. 					D07E8F35.
     SLES_530.14; 	Tenchu: Fatal Shadows. 					E7CCCB1E.
     SLES_506.79; 	Tenchu: Wrath of Heaven. 				C8DADF58.
+    SCES_503.00; 	Time Crisis 2. 						30FABE51.
     SLES_500.78; 	TimeSplitters. 						288AA369.
     SLES_508.77; 	TimeSplitters 2. 					5CC9BF81.
     SLES_538.24; 	Trapt. 							2A79E058.
