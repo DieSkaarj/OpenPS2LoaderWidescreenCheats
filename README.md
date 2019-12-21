@@ -45,6 +45,7 @@
     SLES_521.50; 	Legacy of Kain: Defiance. 				BCAD1E8A.
     SLES_502.30; 	Lotus Challenge. 					D48A92E1.
     SLES_516.53; 	Mace Griffin - Bounty Hunter. 				CBC401C5.
+    SLES_534.83; 	Magna Carta: Tears of Blood. 				49F78F24.
     SLES_510.58; 	Maken Shao - Demon Sword. 				54854C71.
     SLES_502.48; 	MDK2 - Armageddon. 					4515F52F.
     SLES_513.58; 	Mystic Heroes. 						8C8E2877.
