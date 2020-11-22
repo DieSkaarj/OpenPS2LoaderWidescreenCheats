@@ -52,7 +52,7 @@
     SLES_522.38;	Nightshade.						3B470BBD.
     SLES_544.39; 	Okami. 							891F223F.
     SLES_501.34; 	Oni. 							22E85E68.
-    SLES_505.92; 	Operative: No One Lives Forever, The. 			18F2A070.
+    SLES_505.92; 	Operative, The: No One Lives Forever. 			18F2A070.
     SLES_506.80; 	Pirates - The Legend Of Black Kat. 			E677B8F1.
     SLES_519.18; 	Prince of Persia: The Sands of Time. 			4B58A7A8.
     SLES_528.22; 	Prince of Persia: Warrior Within. 			105CC366.
