@@ -49,6 +49,7 @@
     SLES_510.58; 	Maken Shao - Demon Sword. 				54854C71.
     SLES_502.48; 	MDK2 - Armageddon. 					4515F52F.
     SLES_513.58; 	Mystic Heroes. 						8C8E2877.
+    SLES_522.38;	Nightshade.						3B470BBD.
     SLES_544.39; 	Okami. 							891F223F.
     SLES_501.34; 	Oni. 							22E85E68.
     SLES_505.92; 	Operative: No One Lives Forever, The. 			18F2A070.
