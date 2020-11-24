@@ -24,6 +24,7 @@
     SCES_500.03; 	Dead or Alive 2.					7A51F86E.
     SCES_530.54; 	Death by Degrees.					59683BB0.
     SLES_509.30; 	Dino Stalker. 						086DB720.
+    SLES_544.60;	Dragon Sisters.						1054ED67.
     SCES_500.06; 	Drakan - The Ancients' Gates. 				04F9D87F.
     SLES_523.22; 	Drakengard.						79585776.
     SLES_537.94; 	Drakengard 2.						EC432B24.
