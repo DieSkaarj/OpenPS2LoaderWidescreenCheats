@@ -1,0 +1,18 @@
+/***********************************/
+/* SCES_514.28; Shinobi. 29B5FDB9. */
+/***********************************/
+
+Master Code
+
+902E3BF8 0C0B8EA6	// sceSifSendCmd (recommended)
+//~902F7FA4 0C0B4B64	// scePadRead
+//~90183124 0C060C94	// main (unreliable)
+
+/*
+ * Widescreen Hack by El_Patas
+ */
+
+Widescreen Code
+
+20183A64 3C023F40 //3C023F80 Gameplay 16:9 (50Hz Mode) (Increases hor. axis)
+20183A88 3C023F40 //3C023F80 Gameplay 16:9 (60Hz Mode) (Increases hor. axis)
