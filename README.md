@@ -68,6 +68,7 @@
     SLES_820.31; 	Shadow Hearts 2: Covenant. 				167A484D.
     SLES_547.11; 	Shadow Hearts 3: From The New World. 			03F9539F.
     SLES_504.46; 	Shadow Man: 2econd Coming. 				48553EAF.
+    SCES_514.28;	Shinobi.						29B5FDB9.
     SCES_533.12; 	Soul Calibur III. 					BC5480A3.
     SLES_551.67; 	Soul Nomad & the World Eaters. 				4A2F5CDA.
     SLES_528.82; 	Stolen. 						BBAE448F.
