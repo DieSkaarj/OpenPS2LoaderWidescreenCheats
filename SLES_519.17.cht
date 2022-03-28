@@ -1,0 +1,17 @@
+/************************************************/
+/* SLES_519.17; Beyond Good and Evil. 591ABA45. */
+/************************************************/
+
+Master Code
+
+906D5FB8 0C1B5796	// sceSifSendCmd (recommended)
+//~90110324 0C0440C0	// main (unreliable)
+
+
+/*
+ * Widescreen hack by dieSkaarj
+ */
+
+Widescreen Code
+
+20131cb0 3c023f40
