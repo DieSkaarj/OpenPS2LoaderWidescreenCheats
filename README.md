@@ -1,7 +1,7 @@
 # OpenPS2LoaderWidescreenCheats
 <h2>Cheat files to enable 16:9 widescreen using OpenPS2Loader on original hardware.</h2>
 
-<p>These files have been created from the pnach files found in the PS2 Widescreen Archive available from the <a href="https://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches">PCSX2 forums</a> and are for use with original hardware. They have been tested on a slim PS2 [SCPH-77003] with the latest <a href="https://www.ps2-home.com/forum/viewtopic.php?t=3">OPL daily build</a> and are served as-is.</p>
+<p>These files have been adapted from the pnach files found in the PS2 Widescreen Archive available from the <a href="https://forums.pcsx2.net/Thread-PCSX2-Widescreen-Game-Patches">PCSX2 forums</a> and are for use with original hardware. They have been tested on a slim PS2 [SCPH-77003] with the latest <a href="https://www.ps2-home.com/forum/viewtopic.php?t=3">OPL daily build</a> and are served as-is.</p>
 
 <h3>Usage</h3>
 <p>Import any or all of the .cht files to your ./CHT folder in your OPL games root folder and run the game from OPL with cheats enabled.</p>
@@ -15,6 +15,7 @@
     SLES_501.09; 	7 Blades.						97AE372A.
     SLES_509.72; 	Barbarian. 						5CCA0737.
     SLES_531.54; 	Bard's Tale, The.					26420115.
+    SLES_519.17;	Beyond Good & Evil.					591ABA45.
     SLES_516.20; 	Black & Bruised.					F743CD58.
     SLES_507.71; 	Blood Omen 2: Legacy of Kain. 				06DCCAF4.
     SLES_502.03; 	Bloody Roar 3.						880AA922.
